@@ -1,0 +1,1 @@
+Este proyecto es una implementación del clásico juego de Tres en Raya (Tic-Tac-Toe) utilizando JavaFX para la interfaz gráfica y sockets. La aplicación gestiona el estado del juego, detecta las condiciones de victoria y permite iniciar la partida.
